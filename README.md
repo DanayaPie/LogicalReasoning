@@ -1,3 +1,3 @@
 # LogicalReasoningChallenges
 
-A weekly logical reasoning challenges.
+Weekly logical reasoning challenges
